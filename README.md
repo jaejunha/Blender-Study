@@ -24,7 +24,11 @@ It is open source program
 ```
 http://ghchart.rshah.org  
 ```
-- Lightning Text(by **Ray Mairlot**)
+- 3D text (by **blendhelp**)  
+```
+https://www.youtube.com/watch?v=blTIgOaOT-A
+```
+- Lightning Text (by **Ray Mairlot**)
 ```
 https://youtu.be/UIwwuB0qGBo
 ```
